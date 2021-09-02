@@ -22,7 +22,7 @@ const searchBooks = () => {
     }
 
 }
-searchBooks();
+
 const displayBooks = (data) => {
     console.log(data)
     const numFound = data.numFound;
